@@ -1,0 +1,8 @@
+groq
+langchain-core
+langchain-groq
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+rank_bm25
